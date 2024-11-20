@@ -1,13 +1,16 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,300;0,400;0,500;1,300;1,400&display=swap");
-
 body {
-  font-family: "Roboto", Arial, Helvetica, sans-serif;
-  margin: 0;
-  background: #111;
+  font-family: "Shippori Mincho", serif;
+  font-weight: 400;
+  font-style: normal;
+  background: #26271f;
   display: flex;
   flex-direction: column;
   min-height: 100vh;
 }
+
+
+
 
 .fa-magnifying-glass {
   color: white;
@@ -70,8 +73,8 @@ body {
 }
 
 .logo {
-  width: 150px;
-  height: 150px;
+  width: 500px;
+  height: 499px;
 }
 
 .logo-wrapper .text {
